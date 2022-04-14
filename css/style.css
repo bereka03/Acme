@@ -80,7 +80,7 @@ header li {
 /* Intro */
 .intro {
     min-height: 400px;
-    background: url('/img/showcase.jpg');
+    background: url('../img/showcase.jpg');
     text-align: center;
     color: #FFFFFF;
 }
